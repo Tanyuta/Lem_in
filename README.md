@@ -1,2 +1,3 @@
 # Lem_in
-C
+make
+./lem-in < maps/lol_1
